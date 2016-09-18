@@ -1,0 +1,6 @@
+platform :ios, '7.0'
+target ‘gongfuduobao' do
+pod "AFNetworking", "~> 2.0" #网络请求
+pod "MJRefresh" #下拉/上拉
+pod "MJExtension" #json转换为实体
+end
